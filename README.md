@@ -4,7 +4,7 @@
     * cn.itcast.n3 中是第三章的代码
     * ...
     * cn.itcast.pattern 是介绍多线程设计模式的代码
-    * cn.itcast.test 是视频中实时敲的代码，其实在前面章节中都有
+    * cn.itcast.test 是实时敲的代码，其实在前面章节中都有
 * jmh_performance 子模块
     * 使用了 JMH，演示多线程提升性能的代码
 * jmh_eliminate_locks 子模块
